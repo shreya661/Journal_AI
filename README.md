@@ -8,7 +8,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge)
-
+ 
   <p>A modern, dynamic journaling application that uses AI to analyze your mood, provide empathetic comfort, and track your emotional wellbeing over time.</p>
 </div>
 
