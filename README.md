@@ -11,7 +11,7 @@
  
   <p>A modern, dynamic journaling application that uses AI to analyze your mood, provide empathetic comfort, and track your emotional wellbeing over time.</p>
 </div>
-
+ 
 ## ⚙️ How It Works (Workflow) 
 
 ```mermaid
