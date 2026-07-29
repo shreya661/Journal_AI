@@ -15,7 +15,7 @@
 ## ⚙️ How It Works (Workflow) 
 
 ```mermaid
-sequenceDiagram
+sequenceDiagram 
     participant User 
     participant Frontend
     participant Backend (FastAPI)
