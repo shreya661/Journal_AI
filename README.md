@@ -16,7 +16,7 @@
 
 ```mermaid
 sequenceDiagram
-    participant User
+    participant User 
     participant Frontend
     participant Backend (FastAPI)
     participant Groq AI
